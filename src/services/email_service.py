@@ -10,10 +10,10 @@ class EmailService:
         if file_path:
             contents.append(file_path)
 
-            #comando para disparar o email
-            yag.send(
-                to=recipient,
-                cc=cc if cc else None,
-                subject=subject,
-                contents=contents
-            )
+        # comando para disparar o email
+        yag.send(
+            to=recipient,
+            cc=cc if cc else None,
+            subject=subject,
+            contents=contents
+        )
