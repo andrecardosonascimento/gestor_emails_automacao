@@ -23,7 +23,7 @@ gestor_emails/
 ├── requirements.txt            # Dependências do projeto
 └── README.md                   # Manual de instruções
 ```
-## Instruções para o envio do emaim - IMPORTANTE!
+## Instruções para o envio do email - IMPORTANTE!
 
 Se o email for da google (gmail), é necessário criar uma senha de autenticação
 
