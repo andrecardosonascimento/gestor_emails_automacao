@@ -22,3 +22,18 @@ gestor_emails/
 │
 ├── requirements.txt            # Dependências do projeto
 └── README.md                   # Manual de instruções
+```
+## Instruções para o envio do emaim - IMPORTANTE!
+
+Se o email for da google (gmail), é necessário criar uma senha de autenticação
+
+Por que acontece?: O Gmail não aceita mais o método antigo de "permitir apps menos seguros" fazendo a conta exigir uma senha de aplicativo ou autenticação mais segura.
+
+Como resolver?: Ative a verificação em duas etapas na sua conta Google.
+
+Crie uma senha de app:
+
+Acesse: https://myaccount.google.com/security
+Em “Acesso ao Google”, clique em Senhas de app
+Gere uma senha para “Email” / “Outro” e copie a senha gerada
+Use essa senha no campo Senha do seu programa em vez da sua senha normal do Gmail.
