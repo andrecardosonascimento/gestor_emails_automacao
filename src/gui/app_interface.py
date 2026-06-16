@@ -3,7 +3,8 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 from src.services.email_service import EmailService
 
-# Adicionar novas funções ao sistema na proxima versão
+# Adicionar novas funções ao sistema na proxima versão 1.2
+
 
 class EmailSenderApp:
     def __init__(self, root):
