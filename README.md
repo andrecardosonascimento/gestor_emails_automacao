@@ -34,6 +34,5 @@ Como resolver?: Ative a verificação em duas etapas na sua conta Google.
 Crie uma senha de app:
 
 Acesse: https://myaccount.google.com/security
-Em “Acesso ao Google”, clique em Senhas de app
-Gere uma senha para “Email” / “Outro” e copie a senha gerada
-Use essa senha no campo Senha do seu programa em vez da sua senha normal do Gmail.
+Em “Acesso ao Google”, entre em Senhas de app, em seguida digite um nome qualquer em "nome do app", e cilque em criar
+vai ser gerada uma chave, copie e cole a chave dentro do campo "senhas" do programa.
